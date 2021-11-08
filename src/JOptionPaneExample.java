@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Scanner;
 
-public class Examples {
+public class JOptionPaneExample {
         public static void main(String[] args) {
 
             Scanner scan = new Scanner(System.in);
