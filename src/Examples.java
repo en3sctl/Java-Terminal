@@ -5,25 +5,17 @@ public class Examples {
         public static void main(String[] args) {
 
             Scanner scan = new Scanner(System.in);
-            System.out.println("Please Enter The First Value: ");
-            double a = scan.nextDouble();
-            System.out.println("Please Enter The Second Value: ");
-            double b = scan.nextDouble();
-            System.out.println("Please Enter The Third Value: ");
-            double c = scan.nextDouble();
 
-            double res = b * b - 4.0 * a * c ;
+            System.out.println("Please Enter The Weight: ");
+            double height = scan.nextDouble();
+            System.out.println("Please Enter The Height: ");
+            double weight = scan.nextDouble();
 
-            if(res<0)
-                System.out.println("nothing");
-            else
-            if(res==0)
-                System.out.println("x1 = "+(-b/(2*a)));
-            else{
-                System.out.println("x2 = "+(-b-Math.sqrt(res)));
+            double BMI = weight / (height*height);
+            System.out.println("The BMI Is: "+BMI+"kg/m2");
 
-                JOptionPane.showMessageDialog(null,res);
-            }
+            JOptionPane.showMessageDialog(null,"BMI "+BMI);
+
         }
     }
 
