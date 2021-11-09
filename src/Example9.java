@@ -7,7 +7,6 @@ public class Example9{
         int N = scan.nextInt();
 
         for(int i=1; i<=10; i++){
-
             System.out.println(N + " x " + i + " = " + (N*i));
         }
     }
