@@ -1,6 +1,7 @@
 import java.util.Collections;
 import java.util.Arrays;
 public class Example15 {
+
     public static void main(String[] args) {
         Integer [] arr = new Integer[]{1,5,8,2,6};
         int max = Collections.max(Arrays.asList(arr));
