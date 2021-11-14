@@ -16,7 +16,7 @@ public class Main {
                 System.out.println(i);
         }
     }*/
-    private static void fizzBuzzAfter8(int num){
+    private static void fizzBuzzAfter8(int num){ //this code much more easier and clean
         IntStream.rangeClosed(1,num)
                 .mapToObj(i -> i % 5 == 0 ? (i % 7 == 0 ? "FizzBuzz": "Fizz") : (i % 7 == 0 ? "Buzz" : i))
                 .forEach(System.out::println);
