@@ -1,5 +1,5 @@
 public class Example12 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         int a = 20;
         int b = 23;
         int c = 26;
