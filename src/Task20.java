@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {        //celsius - fahrenheit
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter A Degree In Celsius: ");
