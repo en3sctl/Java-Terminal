@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Solution {
-    public static void main(String[] args) {
+    public static void main(String[] args) {          //can be fitted or not 
         
     Scanner sc = new Scanner(System.in);
     int t=sc.nextInt();
