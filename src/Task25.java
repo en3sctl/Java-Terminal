@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class exam {
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);              //Swap Program
         System.out.println("Please Enter n: ");
         int n = scan.nextInt();
         int [] swap = new int[n];
