@@ -1,5 +1,5 @@
 package com.company;
-import java.util.HashSet;
+import java.util.HashSet;        // we are finding the same values in the both arrays
 
 public class Main {
 
