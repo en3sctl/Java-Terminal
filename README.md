@@ -1,1 +1,3 @@
-Java Console exercises University exercises and more :)
+Java Console exercises University exercises 
+                       HackerRank exercises
+                       And more :)
