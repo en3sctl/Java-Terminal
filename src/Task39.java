@@ -1,7 +1,7 @@
 package c08;
 
 public
-    class Task0802 {
+    class Task39 {
 
     public static void main(String[] args) {
         int[] arr = {1, 4, 2, 5};
