@@ -1,6 +1,6 @@
 package com.company;
 
-public class Task_45 {
+public class Task_36 {
     //Udemy Challenge
     public static void main(String[] args) {
 
