@@ -3,7 +3,7 @@ package c07;
 import java.util.Scanner;
 
 public
-    class Task0707 {
+    class Task37 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
