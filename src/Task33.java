@@ -1,6 +1,6 @@
 package com.company;
 
-public class Task_50 {
+public class Task_33 {
     //Udemy Challenge
     public static void main(String[] args) {
         canPack(1,0,5);
