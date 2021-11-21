@@ -1,6 +1,6 @@
 package com.company;
 
-public class Task_46 {
+public class Task_35 {
     //Udemy challange
     public static void main(String[] args) {
         System.out.println(getGreatestCommonDivisor(25,15));
