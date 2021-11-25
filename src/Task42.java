@@ -1,4 +1,4 @@
-public class Taskz07 {
+public class getMaxs {
 
     public static int[] getMaxs(int[][] tab) {
 
